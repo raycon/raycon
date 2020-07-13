@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Get in touch
+
+- Personal site: https://www.raegon.com
+- Instagram: https://instagram.com/acorn.kim
+- Twitter: https://twitter.com/raycons
