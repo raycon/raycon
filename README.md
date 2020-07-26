@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 - 2012.11 ~ 2014.03 : Samsung Hub / Android Client / First landing page for music, video, books, games and learning services.
 - 2011.03 ~ 2012.10 : Android Settings Application
 
-## My Sidework
-
-- [Namechart](https://www.namechart.kr): Statistics and rankings of the names of Koreans.
-
 ## Get in touch
 
 - Personal site: https://raegon.com
