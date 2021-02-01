@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ## Get in touch
 
 - Personal site: https://raegon.com
-- Instagram: https://instagram.com/acorn.kim
+- Instagram: https://instagram.com/raegon.kim
 - Twitter: https://twitter.com/raycons
