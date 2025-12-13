@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraycon%2Fraycon)](https://hits.seeyoufarm.com)
-
 Hi,I'm Raegon. I'm working as a software engineer at Samsung.
 
 <!--
