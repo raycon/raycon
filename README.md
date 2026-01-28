@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## My works
 
-- 2021.04 ~ : Samsung Podcasts / Server
+- 2024.01 ~ : Samsung News / Server
+- 2021.04 ~ 2024.12 : Samsung Podcasts / Server
 - 2020.06 ~ : TF / Server
 - 2019.11 ~ 2020.06 : Samsung Members / Server
 - 2019.04 ~ 2019.12 : Game Launcher / Server
